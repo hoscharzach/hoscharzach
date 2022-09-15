@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: I want to learn the piano. 🎹
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### Connect with me:
+[LinkedIn](https://www.linkedin.com/in/zachhoschar/)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
