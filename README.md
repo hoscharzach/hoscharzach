@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
 <h1 align="center">Hi 👋, I'm Zach Hoschar</h1>
@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Board games, vidya games, nutrition, working out, escape rooms, psychological thrillers**
 
 - 📫 How to reach me **hoschar.zach@gmail.com**
+
+- ⚡ Fun fact: I want to learn the piano. 🎹
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
