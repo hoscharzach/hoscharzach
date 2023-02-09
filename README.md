@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 <h3 align="center">Hey, I'm a professional League of Legends player turned Software Engineer with a love for finding unique solutions and learning new things. My main skills are in Javascript and Python, specifically Node, Express, Flask, SQLite3, React, and Redux. I'm looking for opportunities in the field where I can solve problems and improve my skills or learn new technologies.</h3>
 
 - 🔭 I’m currently working on [Quacker](https://github.com/hoscharzach/Quacker), my full stack Twitter clone
--  🌱 I’m currently learning Go and websockets to create a Chat/Multiplayer game app
 - 💬 Ask me about **Board games, vidya games, nutrition, working out, escape rooms, psychological thrillers**
 - 📫 How to reach me **hoschar.zach@gmail.com**
-- ⚡ Fun fact: I want to learn the piano. 🎹
+- ⚡ Fun fact: I'm currently learning the piano. 🎹
 
 ### Connect with me:
 [LinkedIn](https://www.linkedin.com/in/zachhoschar/)
