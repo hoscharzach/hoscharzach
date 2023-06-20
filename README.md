@@ -49,8 +49,4 @@ Here are some ideas to get you started:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoscharzach&show_icons=true&locale=en&layout=compact" alt="hoscharzach" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoscharzach&show_icons=true&locale=en" alt="hoscharzach" /></p>
-
 
